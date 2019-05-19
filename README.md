@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+# ACPR 2019 - Auckland, New Zealand
+# Workshop on Computer Vision for Modern Vehicles
+ Tuesday November 26 2019,
+ Auckland, New Zealand
 
-You can use the [editor on GitHub](https://github.com/xiaojs18/ACPR19CVMV.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The workshop will focus on new and improved methods, techniques, and applications of Computer Vision for Modern Vehicles. A previous issue of this workshop has been held at Wuhan, China (2017). This third issue is being held with [ACPR2019](https://www.acpr2019.org) at Auckland, New Zealand.  
+The aim of this workshop is to bring together engineers and scientists from academia, industry and government to exchange results and ideas for future applications of Computer Vision for Modern Vehicles.
 
-### Markdown
+Computer vision for modern vehicles gave researchers access to camera technologies for wide-ranging applications in the automotive industry. Computer vision-based driver assistance is an emerging technology, in both the automotive industry and academia. Despite the existence of some commercial safety systems such as night vision, adaptive cruise control, and lane departure warning systems, we are at the beginning of a long research pathway towards a future generation of intelligent vehicles.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Call for Papers
 
-```markdown
-Syntax highlighted code block
+**Call for papers**: We welcome submissions on the following topics, including but not limited to:
 
-# Header 1
-## Header 2
-### Header 3
+*	Low-level vision and image processing, image/video denoising, image enhancement, image super-resolution
+*	Stereo vision: 3D computer vision, stereo matching
+*	Semantic segmentation, grouping and shape representation
+*	Recognition: detection, categorization, indexing and matching, motion and tracking
+*	Deep Learning, statistical methods and learning
+*	Video: events, activities and surveillance (e.g. at road intersections)
+*	Automated vehicles with and without pilot/driver, partial vehicle automation
+*	Driver monitoring, driver human factors and personalization
+*	Sensing, detection, and actuation
+*	Advanced vehicle safety systems, lane change and merging
+*	Vision and environment perception, vision based ADAS
+*	Vehicle localization and autonomous navigation
 
-- Bulleted
-- List
+**Submission**: [Click here for submission](https://easychair.org/conferences/?conf=acpr2019-cvmv)
+- Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
+- Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).
+- All the papers must be submitted using the provided templates.
+  - [LaTeX2e Proceedings Templates (zip)] ftp://ftp.springernature.com/cs-proceeding/llncs/llncs2e.zip
+  - [LaTeX2e Proceedings Templates - Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)
+  -	[Microsoft Word Proceedings Templates (zip)] ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip
+  -	[Microsoft Word 2003 Proceedings Templates (zip)](https://resource-cms.springernature.com/springer-cms/rest/v1/content/7117506/data/v1)
 
-1. Numbered
-2. List
+Workshop proceedings will be published after the conference in the CCIS series of Springer through the ACPR organizers (publication chair). 
 
-**Bold** and _Italic_ and `Code` text
+**NOTE**: Registration for workshops is included in the conference registration, i.e., all the registered ACPR participants are free to attend any of the workshops (besides all the sessions of the main conference).
 
-[Link](url) and ![Image](src)
-```
+## Important Dates
+Task              | Date
+------------------------------|------------------                             
+Paper submission deadline : | September 15, 2019
+Acceptance notification :   | October 15, 2019
+Camera-ready deadline :     | October 26, 2019
+Workshop duration :         | November 26, 2019
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Schedule
+TBD
 
-### Jekyll Themes
+## Accepted Papers
+TBD
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaojs18/ACPR19CVMV.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Workshop Chairs
+Prof. [Jinsheng Xiao](xiaojs@whu.edu.cn)
+Jinsheng Xiao is a professor with School of Electronic Information, Wuhan University, China. His research interests include: Computer Vision and Pattern Recognition, Vision based Advanced Driver Assistant System. He has published more than 60 papers in international journals or international conferences. 
 
-### Support or Contact
+Prof. [Atsushi Imiya](imiya@faculty.chiba-u.jp)
+Atsushi Imiya is the director and a professor with Institute of Management and Information Technologies, Chiba University, Japan. His research interests include: Computer Vision and Pattern Recognition, Vision based Advanced Driver Assistant System. He has published more than 100 papers in international journals or international conferences. He is a fellow of IAPR and a fellow of IEICE, Japan. He organized Dagstuhl Seminar “Computer Vision for Autonomous Vehicles and Probes” on 2016. He was a starting member of CVVT.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Dr. [Hsiang-Jen Chien](jchien@aut.ac.nz)
+Hsiang-Jen (Johnny) received his Ph,D. degree from Auckland University of Technology in 2018. He has been working in the field of computer vision and graphics over a decade, during which time more than 50 quality academic writings have been published including a number of award-winning ones. He is currently working in the Department of Business Technology of Auckland Transport as a permanent role of Computer Vision Specialist under Intelligent Transport System (ITS) programme.
+
+## Technical Program Committee (TPC) 
+
+*	Atsushi Imiya, Chiba University, Japan.
+* Hsiang-Jen Chien , Department of Business Technology of Auckland Transport, New Zealand.
+*	Jinsheng Xiao , Wuhan University, Wuhan, China.
+*	Hui Chen , Sandong University, Jinan, China
+*	Bijun Li , Wuhan University, Wuhan, China
+*	Yanyan Xu 
+*	Junli Tao 
+*	Mutsuhiro Terauchi , Japan
+
+## Acknowledgments
+This workshop is proudly sponsored by: TBD
+
+## Contact
+For any related question, please contact Prof. Dr. [J. Xiao](xiaojs@whu.edu.cn)
+

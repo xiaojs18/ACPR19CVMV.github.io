@@ -43,7 +43,7 @@ Workshop proceedings will be published after the conference in the CCIS series o
 ## Important Dates
 Task              | Date
 ------------------------------|------------------                             
-Paper submission deadline : | August    20, 2019
+Paper submission deadline : | August    15, 2019
 Acceptance notification :   | September  5, 2019
 Camera-ready deadline :     | October   25, 2019
 Workshop duration :         | November 26, 2019

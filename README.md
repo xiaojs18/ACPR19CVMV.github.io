@@ -45,7 +45,7 @@ Task              | Date
 ------------------------------|------------------                             
 Paper submission deadline : | August    20, 2019
 Acceptance notification :   | September  5, 2019
-Camera-ready deadline :     | October   26, 2019
+Camera-ready deadline :     | October   25, 2019
 Workshop duration :         | November 26, 2019
 
 ## Schedule

@@ -27,7 +27,7 @@ Computer vision for modern vehicles gave researchers access to camera technologi
 *	Vision and environment perception, vision based ADAS
 *	Vehicle localization and autonomous navigation
 
-**Submission**: [Click here for submission](https://easychair.org/conferences/?conf=acpr2019-cvmv)
+**Submission**: [Click here for submission](https://easychair.org/my/conferences/?conf=acpr2019-cvmv)
 - Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
 - Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).
 - All the papers must be submitted using the provided templates.
@@ -43,9 +43,9 @@ Workshop proceedings will be published after the conference in the CCIS series o
 ## Important Dates
 Task              | Date
 ------------------------------|------------------                             
-Paper submission deadline : | September 15, 2019
-Acceptance notification :   | October 15, 2019
-Camera-ready deadline :     | October 26, 2019
+Paper submission deadline : | August    20, 2019
+Acceptance notification :   | September  5, 2019
+Camera-ready deadline :     | October   26, 2019
 Workshop duration :         | November 26, 2019
 
 ## Schedule
@@ -71,8 +71,8 @@ Hsiang-Jen (Johnny) received his Ph,D. degree from Auckland University of Techno
 *	Jinsheng Xiao , Wuhan University, Wuhan, China.
 *	Hui Chen , Sandong University, Jinan, China
 *	Bijun Li , Wuhan University, Wuhan, China
-*	Yanyan Xu 
-*	Junli Tao 
+*	Yanyan Xu, University of Berkeley, USA
+* Junli Tao, Auckland University of Technology, New Zealand
 *	Mutsuhiro Terauchi , Japan
 
 ## Acknowledgments

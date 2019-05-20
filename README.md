@@ -27,7 +27,7 @@ Computer vision for modern vehicles gave researchers access to camera technologi
 *	Vision and environment perception, vision based ADAS
 *	Vehicle localization and autonomous navigation
 
-**Submission**: [Click here for submission](https://easychair.org/my/conferences/?conf=acpr2019-cvmv)
+**Submission**: [Click here for submission](https://easychair.org/conferences/?conf=acpr2019-cvmv)
 - Submitted papers should not have been published, accepted or under review elsewhere. Non-peer reviewed media, such as Arxiv do not violate the terms.
 - Submissions need to follow the single-blind policy and be formatted in LNCS style, with a maximum of 14 pages (including references).
 - All the papers must be submitted using the provided templates.

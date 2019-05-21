@@ -41,10 +41,10 @@ Workshop proceedings will be published after the conference in the CCIS series o
 **NOTE**: Registration for workshops is included in the conference registration, i.e., all the registered ACPR participants are free to attend any of the workshops (besides all the sessions of the main conference).
 
 ## Important Dates
-* Paper submission deadline __:  August    15, 2019
-* Acceptance notification _____:  September  5, 2019
-* Camera-ready deadline ______:  October   25, 2019
-* Workshop duration __________:  November 26, 2019
+* Submission deadline :      August    15, 2019
+* Acceptance notification :  September  5, 2019
+* Camera-ready deadline :    October   25, 2019
+* Workshop duration :        November  26, 2019
 
 ## Schedule
 TBD

@@ -72,6 +72,7 @@ Hsiang-Jen (Johnny) received his Ph,D. degree from Auckland University of Techno
 *	Yanyan Xu, University of Berkeley, USA
 * Junli Tao, Auckland University of Technology, New Zealand
 *	Mutsuhiro Terauchi, Setsunan University, Osaka, Japan
+* Mahdi Rezaei, Auckland University of Technology, New Zealand
 
 ## Acknowledgments
 This workshop is proudly sponsored by: TBD

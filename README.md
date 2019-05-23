@@ -64,15 +64,19 @@ Hsiang-Jen (Johnny) received his Ph,D. degree from Auckland University of Techno
 
 ## Technical Program Committee (TPC) 
 
-*	Atsushi Imiya, Chiba University, Japan.
-* Hsiang-Jen Chien, Department of Business Technology of Auckland Transport, New Zealand.
-*	Jinsheng Xiao, Wuhan University, Wuhan, China.
+*	Reinhard Klette, Auckland University of Technology, New Zealand
 *	Hui Chen, Sandong University, Jinan, China
 *	Bijun Li, Wuhan University, Wuhan, China
 *	Yanyan Xu, University of Berkeley, USA
-* Junli Tao, Auckland University of Technology, New Zealand
+*	Junli Tao, Auckland University of Technology, New Zealand
+*	YongQin Zhang, Northwest University, Xi'an, China
 *	Mutsuhiro Terauchi, Setsunan University, Osaka, Japan
-* Mahdi Rezaei, Auckland University of Technology, New Zealand
+*	Xinchen Zhang, Central China Normal University, Wuhan, China
+*	Mahdi Rezaei, Auckland University of Technology, New Zealand
+*	Yuan-Fang Wang, University of California, Santa Barbara, CA, USA
+*	Junfeng Lei, Wuhan University, Wuhan, China
+*	Chris Rapson, Auckland University of Technology, New Zealand
+
 
 ## Acknowledgments
 This workshop is proudly sponsored by: TBD

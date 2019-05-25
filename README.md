@@ -59,8 +59,11 @@ Jinsheng Xiao is a professor with School of Electronic Information, Wuhan Univer
 Prof. [Atsushi Imiya](imiya@faculty.chiba-u.jp)
 Atsushi Imiya is the director and a professor with Institute of Management and Information Technologies, Chiba University, Japan. His research interests include: Computer Vision and Pattern Recognition, Vision based Advanced Driver Assistant System. He has published more than 100 papers in international journals or international conferences. He is a fellow of IAPR and a fellow of IEICE, Japan. He organized Dagstuhl Seminar “Computer Vision for Autonomous Vehicles and Probes” on 2016. He was a starting member of CVVT.
 
+Prof. [Thomas Braeunl](thomas.braunl@uwa.edu.au) is Professor at the University of Western Australia, Perth, where he directs the Renewable Energy Vehicle Project (REV), having converted several road-licensed cars to battery-electric drive. He is Technical Director of the West Australian Electric Vehicle Trial and the Principal Investigator of the ARC Electric Vehicle Fast-Recharging Project.
+
 Dr. [Hsiang-Jen Chien](jchien@aut.ac.nz)
 Hsiang-Jen (Johnny) received his Ph,D. degree from Auckland University of Technology in 2018. He has been working in the field of computer vision and graphics over a decade, during which time more than 50 quality academic writings have been published including a number of award-winning ones. He is currently working in the Department of Business Technology of Auckland Transport as a permanent role of Computer Vision Specialist under Intelligent Transport System (ITS) programme.
+
 
 ## Technical Program Committee (TPC) 
 

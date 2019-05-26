@@ -78,7 +78,7 @@ Prof. [Thomas Braeunl](thomas.braunl@uwa.edu.au) is Professor at the University 
 *	Yuan-Fang Wang, University of California, Santa Barbara, CA, USA
 *	Junfeng Lei, Wuhan University, Wuhan, China
 *	Chris Rapson, Auckland University of Technology, New Zealand
-
+* Haokun Geng, Sydney, Australia
 
 ## Acknowledgments
 This workshop is proudly sponsored by: TBD

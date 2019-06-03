@@ -79,6 +79,7 @@ Prof. [Thomas Braeunl](thomas.braunl@uwa.edu.au) is Professor at the University 
 *	Junfeng Lei, Wuhan University, Wuhan, China
 *	Chris Rapson, Auckland University of Technology, New Zealand
 * Haokun Geng, Sydney, Australia
+* Sandino Morales, Carbon Robotics, United Kingdom
 
 ## Acknowledgments
 This workshop is proudly sponsored by: TBD

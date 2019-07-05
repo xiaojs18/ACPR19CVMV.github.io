@@ -80,6 +80,12 @@ Prof. [Thomas Braeunl](thomas.braunl@uwa.edu.au) is Professor at the University 
 *	Chris Rapson, Auckland University of Technology, New Zealand
 * Haokun Geng, Sydney, Australia
 * Sandino Morales, Carbon Robotics, United Kingdom
+* Ling Ding, Hubei University of Science and Technology, Xianning, China
+* Yuan Yao, Central China Normal University, Wuhan, China
+* Yunhua Chen, Guangdong University of Technology, Guangzhou, China
+* YongQin Zhang, Northwest University, Xi'an, China 
+* Roy Jiang, SPACE, Shanghai, China
+* HongGang Xie, Hubei University of Technology, Wuhan, China
 
 ## Acknowledgments
 This workshop is proudly sponsored by: TBD

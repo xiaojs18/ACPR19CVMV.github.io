@@ -3,6 +3,15 @@
  Tuesday November 26 2019,
  Auckland, New Zealand
 
+Accepted Paper
+ID:1, 2, 4, 5, 6, 11
+
+For accepted papers, pleas upload the USB version of pdf on easychar by 1st November.(Or send to Prof. [Jinsheng Xiao](xiaojs@whu.edu.cn))
+
+These pdf will be distributed during ACPR.
+
+The editor will ask the final revised version for post-proceedings.
+
 ## Introduction
 
 The workshop will focus on new and improved methods, techniques, and applications of Computer Vision for Modern Vehicles. A previous issue of this workshop has been held at Wuhan, China (2017). This third issue is being held with [ACPR2019](https://www.acpr2019.org) at Auckland, New Zealand.  
@@ -47,10 +56,36 @@ Workshop proceedings will be published after the conference in the CCIS series o
 * Workshop duration :        November  26, 2019
 
 ## Schedule
-TBD
+
+8:50	Registration
+
+9:00-11:00
+Session 1 (Contributed Papers) Chaired by Jinsheng Xiao
+
+10min presentation each with discussion 5min
+
+* Shizeng Chen, Bijun Li, Yuan Guo and Jian Zhou   
+Lane Detection Based on Histogram of Oriented Vanishing Points.
+* Dong Cao and Lisha Xu       
+Bypass Enhancement RGB Stream Model for Pedestrian Action Recognition of Autonomous Vehicles.
+* Dabeen Lee, Seunghyun Kim, Hongjun Lee, Chung Choo Chung and Whoi-Yul Kim
+Paved and unpaved road segmentation using deep neural network.
+* Honggang Xie, Jinsheng Xiao, Junfeng Lei, Wenjuan Xie and Reinhard Klette    
+Image scene conversion algorithm based on generative adversarial networks.
+* Koki Kawashima1 and Koyo Katsura
+An Embedded Real-time Monocular SLAM System utilizing a Dynamically Reconfigurable Processor.
+* Ayixiamu Litifu, Jinsheng Xiao, Jiang Hao, Yuchen Yan and Jihua Wang
+Writer Identification Based on Combination of Bag of Words Model and Multiple Classifiers.
+
 
 ## Accepted Papers
-TBD
+ID:1, 2, 4, 5, 6, 11
+
+For accepted papers, pleas upload the USB version of pdf on easychar by 1st November.(Or send to Prof. [Jinsheng Xiao](xiaojs@whu.edu.cn))
+
+These pdf will be distributed during ACPR.
+
+The editor will ask the final revised version for post-proceedings.
 
 ## Workshop Chairs
 Prof. [Jinsheng Xiao](xiaojs@whu.edu.cn)

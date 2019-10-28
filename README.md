@@ -62,17 +62,17 @@ Workshop proceedings will be published after the conference in the CCIS series o
 9:00-11:00
 Session 1 (Contributed Papers) Chaired by Jinsheng Xiao
 
-10min presentation each with discussion 5min
+15min presentation each with discussion 5min
 
 * Shizeng Chen, Bijun Li, Yuan Guo and Jian Zhou   
 Lane Detection Based on Histogram of Oriented Vanishing Points.
 * Dong Cao and Lisha Xu       
 Bypass Enhancement RGB Stream Model for Pedestrian Action Recognition of Autonomous Vehicles.
-* Dabeen Lee, Seunghyun Kim, Hongjun Lee, Chung Choo Chung and Whoi-Yul Kim
+* Dabeen Lee, Seunghyun Kim, Hongjun Lee, Chung Choo Chung and Whoi-Yul Kim    
 Paved and unpaved road segmentation using deep neural network.
 * Honggang Xie, Jinsheng Xiao, Junfeng Lei, Wenjuan Xie and Reinhard Klette    
 Image scene conversion algorithm based on generative adversarial networks.
-* Koki Kawashima1 and Koyo Katsura
+* Koki Kawashima1 and Koyo Katsura    
 An Embedded Real-time Monocular SLAM System utilizing a Dynamically Reconfigurable Processor.
 * Ayixiamu Litifu, Jinsheng Xiao, Jiang Hao, Yuchen Yan and Jihua Wang
 Writer Identification Based on Combination of Bag of Words Model and Multiple Classifiers.

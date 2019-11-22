@@ -57,17 +57,17 @@ Workshop proceedings will be published after the conference in the CCIS series o
 
 * Venue: WG801-802, WG Building Level 8, entrance from Mayoral Drive
 8:50-11:20
-15min presentation each with discussion 5min
+* 15min presentation each with discussion 5min
 
 ## Schedule
 * 8:50	Registration
 * 9:00-10:00: Session 1 (Contributed Papers) Chaired by Jinsheng Xiao
 * 9:00-9:20: Shizeng Chen, Bijun Li, Yuan Guo and Jian Zhou
-Lane Detection Based on Histogram of Oriented Vanishing Points.
-* 9:20-9:40: Dong Cao and Lisha Xu       
-Bypass Enhancement RGB Stream Model for Pedestrian Action Recognition of Autonomous Vehicles.
+** Lane Detection Based on Histogram of Oriented Vanishing Points.
+* 9:20-9:40: Dong Cao and Lisha Xu
+** Bypass Enhancement RGB Stream Model for Pedestrian Action Recognition of Autonomous Vehicles.
 * 9:40-10:00: Dabeen Lee, Seunghyun Kim, Hongjun Lee, Chung Choo Chung and Whoi-Yul Kim    
-Paved and unpaved road segmentation using deep neural network.
+** Paved and unpaved road segmentation using deep neural network.
 
 * 10:00-10:20 : coffee break
 * 10:20-11:20 Session 2 (Contributed Papers) Chaired by Johnny Chien

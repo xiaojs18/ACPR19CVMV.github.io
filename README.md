@@ -55,28 +55,28 @@ Workshop proceedings will be published after the conference in the CCIS series o
 * Camera-ready deadline :    October   25, 2019
 * Workshop duration :        November  26, 2019
 
-## Schedule
-
-8:50	Registration
-
-9:00-11:00
-Session 1 (Contributed Papers) Chaired by Jinsheng Xiao
-
+* Venue: WG801-802, WG Building Level 8, entrance from Mayoral Drive
+8:50-11:20
 15min presentation each with discussion 5min
 
-* Shizeng Chen, Bijun Li, Yuan Guo and Jian Zhou   
+## Schedule
+* 8:50	Registration
+* 9:00-10:00: Session 1 (Contributed Papers) Chaired by Jinsheng Xiao
+* 9:00-9:20: Shizeng Chen, Bijun Li, Yuan Guo and Jian Zhou
 Lane Detection Based on Histogram of Oriented Vanishing Points.
-* Dong Cao and Lisha Xu       
+* 9:20-9:40: Dong Cao and Lisha Xu       
 Bypass Enhancement RGB Stream Model for Pedestrian Action Recognition of Autonomous Vehicles.
-* Dabeen Lee, Seunghyun Kim, Hongjun Lee, Chung Choo Chung and Whoi-Yul Kim    
+* 9:40-10:00: Dabeen Lee, Seunghyun Kim, Hongjun Lee, Chung Choo Chung and Whoi-Yul Kim    
 Paved and unpaved road segmentation using deep neural network.
-* Honggang Xie, Jinsheng Xiao, Junfeng Lei, Wenjuan Xie and Reinhard Klette    
-Image scene conversion algorithm based on generative adversarial networks.
-* Koki Kawashima1 and Koyo Katsura    
-An Embedded Real-time Monocular SLAM System utilizing a Dynamically Reconfigurable Processor.
-* Ayixiamu Litifu, Jinsheng Xiao, Jiang Hao, Yuchen Yan and Jihua Wang
-Writer Identification Based on Combination of Bag of Words Model and Multiple Classifiers.
 
+* 10:00-10:20 : coffee break
+* 10:20-11:20 Session 2 (Contributed Papers) Chaired by Johnny Chien
+* 10:20-10:40 : Honggang Xie, Jinsheng Xiao, Junfeng Lei, Wenjuan Xie and Reinhard Klette    
+Image scene conversion algorithm based on generative adversarial networks.
+* 10:40-11:00 : Koki Kawashima1 and Koyo Katsura    
+An Embedded Real-time Monocular SLAM System utilizing a Dynamically Reconfigurable Processor.
+* 11:00-11:20 : Ayixiamu Litifu, Jinsheng Xiao, Jiang Hao, Yuchen Yan and Jihua Wang 
+Writer Identification Based on Combination of Bag of Words Model and Multiple Classifiers.
 
 ## Accepted Papers
 ID:1, 2, 4, 5, 6, 11
